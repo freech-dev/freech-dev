@@ -5,6 +5,7 @@
 ![Lua](https://img.shields.io/badge/-Lua-000?&logo=Lua)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
 ## 📊 GitHub Stats
 
