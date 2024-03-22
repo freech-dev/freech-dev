@@ -18,4 +18,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SolsticeDev&layout=compact&theme=radical)
 
+[![Freechs's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatimeFreech=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+
 - 📫 How to reach me freech_dev on discord
