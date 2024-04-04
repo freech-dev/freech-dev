@@ -8,7 +8,9 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
+![status](https://api.statusbadges.me/badge/status/889146177440874536?simple=true&style=for-the-badge)
 [![spotify](https://api.statusbadges.me/badge/spotify/889146177440874536?style=for-the-badge)](https://api.statusbadges.me/openspotify/889146177440874536)
+![vscode](https://api.statusbadges.me/badge/vscode/889146177440874536?style=for-the-badge)
 
 
 ![GitHub User's stars](https://img.shields.io/github/stars/freech-dev)
