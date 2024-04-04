@@ -10,8 +10,6 @@
 
 ![status](https://api.statusbadges.me/badge/status/889146177440874536?simple=true&style=for-the-badge)
 
---
-
 [![spotify](https://api.statusbadges.me/badge/spotify/889146177440874536?style=for-the-badge)](https://api.statusbadges.me/openspotify/889146177440874536)
 ![vscode](https://api.statusbadges.me/badge/vscode/889146177440874536?style=for-the-badge)
 
