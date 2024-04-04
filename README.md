@@ -9,7 +9,7 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
 ![status](https://api.statusbadges.me/badge/status/889146177440874536?simple=true)
-![spotify](https://api.statusbadges.me/badge/spotify/889146177440874536)](https://api.statusbadges.me/openspotify/889146177440874536)
+[![spotify](https://api.statusbadges.me/badge/spotify/889146177440874536)](https://api.statusbadges.me/openspotify/889146177440874536)
 ![vscode](https://api.statusbadges.me/badge/vscode/889146177440874536)
 
 ![GitHub User's stars](https://img.shields.io/github/stars/freech-dev)
