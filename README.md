@@ -1,5 +1,7 @@
 👋 Hi, I’m @freech-dev
 
+I am just here to learn new things and enjoy myself and to maybe make some dosh on the side 😉
+
 ## 🛠️ Technologies & Tools
 
 ![Lua](https://img.shields.io/badge/-Lua-000?&logo=Lua)
@@ -16,8 +18,6 @@
 
 
 ![GitHub User's stars](https://img.shields.io/github/stars/freech-dev)
-
-
 
 ## 📊 GitHub Stats
 
