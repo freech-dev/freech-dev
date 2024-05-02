@@ -12,6 +12,7 @@ I am just here to learn new things and enjoy myself and to maybe make some dosh 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![LUA](https://img.sheilds.io/badge/lua-%2300f.svg?style=for-the-badge&logo=lua&logoColor=white)
+![LUA](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 ![status](https://api.statusbadges.me/badge/status/889146177440874536?simple=true&style=for-the-badge)
 
