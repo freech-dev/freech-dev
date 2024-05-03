@@ -21,6 +21,7 @@ I am just here to learn new things and enjoy myself and to maybe make some dosh 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+### What im doing right now
 ![status](https://api.statusbadges.me/badge/status/889146177440874536?simple=true&style=for-the-badge)
 
 [![spotify](https://api.statusbadges.me/badge/spotify/889146177440874536?style=for-the-badge)](https://api.statusbadges.me/openspotify/889146177440874536)
