@@ -14,6 +14,8 @@ I am just here to learn new things and enjoy myself and to maybe make some dosh 
 ![LUA](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 ![status](https://api.statusbadges.me/badge/status/889146177440874536?simple=true&style=for-the-badge)
 
