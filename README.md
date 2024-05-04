@@ -25,10 +25,12 @@
 
 ![GitHub User's stars](https://img.shields.io/github/stars/freech-dev)
 
-## 📊 GitHub Stats
+## My Stats
 
-![Solstice-Development's GitHub Stats](https://github-readme-stats.vercel.app/api?username=freech-dev&show_icons=true&count_private=true&theme=dark)
+![Solstice-Development's GitHub Stats](https://github-readme-stats.vercel.app/api?username=freech-dev&show_icons=true&count_private=true&theme=transparent)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=freech-dev&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=freech-dev&layout=compact&theme=transparent)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Freech)](https://github.com/anuraghazra/github-readme-stats)
 
 - 📫 How to reach me freech_dev on discord
