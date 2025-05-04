@@ -29,5 +29,4 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=freech-dev&layout=compact&theme=transparent)
 
-![Development stats](https://wakatime.com/share/@Freech/eee83c96-41f8-4d18-8e05-8de4c844f0c4.svg)
 - 📫 How to reach me freech_dev on discord
